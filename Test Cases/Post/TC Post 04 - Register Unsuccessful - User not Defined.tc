@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC Post 04 - Register Unsuccessful - User not Defined</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>07be543e-1110-4fc8-869e-171be52adc93</testCaseGuid>
+</TestCaseEntity>

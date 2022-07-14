@@ -37,3 +37,7 @@ Registry ID		:	KSAT006ONL016
 
     -   Put
         -   Update User
+
+### :books: Note :
+
+Documents, Test Plan, Test Scenario, in Documents Folder.
